@@ -18,9 +18,7 @@ Syntax highlighted code block
 ```
 for future reference ---^
 
-
-looking much cleaner in here now, isnt it.
-
-Test:
-**BOLD**
-_ITALICS_
+# Christopher Novak-Sheward's First CS193 Homework
+- One of my best friends is in my Lecture with me
+- I'm going to get really good at using the terminal
+- The I-Clicker questions are easy
