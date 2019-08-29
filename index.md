@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+# Christopher Novak-Sheward's First CS193 Homework
+- One of my best friends is in my Lecture with me
+- I'm going to get really good at using the terminal
+- The I-Clicker questions are easy
 
-I like that title ---^ so im going to keep it.
+
+for future reference ---v
+
+## Welcome to GitHub Pages
 
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -18,7 +24,3 @@ Syntax highlighted code block
 ```
 for future reference ---^
 
-# Christopher Novak-Sheward's First CS193 Homework
-- One of my best friends is in my Lecture with me
-- I'm going to get really good at using the terminal
-- The I-Clicker questions are easy
